@@ -14,7 +14,7 @@
 
  🌱 I’m currently learning **SpringBoot, DSA, ML**
 
- 💬 Ask me about **Java, Spring Boot, React, Node.js, Firebase... or anything [here](https://github.com/AnkitGola-7078/AnkitGola-7078/issues)**
+ 💬 Ask me about **Java, Spring Boot, React, Node.js, Express.js... or anything [here](https://github.com/AnkitGola-7078/AnkitGola-7078/issues)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
